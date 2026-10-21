@@ -1,6 +1,7 @@
 # Hospital Parking Revenue Reconciliation & Variance Dashboard
 
 An Excel project that models the monthly workflow of a hospital parking revenue control analyst.
+   ![Dashboard](Dashboard.png)
 
 > **All data in this workbook is synthetic.** Accounts, locations, and amounts are invented for demonstration. No real hospital, patient, employee, or vendor data is used.
 
